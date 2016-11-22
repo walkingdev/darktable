@@ -1,7 +1,7 @@
 ---
 title: Prépare ton escapade aGITle V-31
 description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/aGITle/blob/master/banner-github.jpg?raw=true
+image_url: https://github.com/walkingdev/aGITle/blob/master/banner-github.png?raw=true
 ---
 
 # Session aGITle - V-31
