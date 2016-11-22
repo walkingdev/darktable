@@ -1,7 +1,7 @@
 ---
 title: Faq aGITle V-31
 description: Une petite exploration de ce qu'on peut faire en agile avec GITsans frontale et sans baudrier du côté de Toulouse.
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
+image_url: https://github.com/walkingdev/aGITle/blob/master/media/banner-morse.png?raw=true
 ---
 
 # Session aGITle - V-31
@@ -16,7 +16,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 12 janvier 2017 à 9h quelque part dans le centre de Toulouse. On ne sait pas encore où, on vous dit dès que l'on sait.
+La marche commencera le 12 janvier 2017 à 9h quelque part dans le centre de Toulouse. On ne sait pas encore où, on vous dit dès que l'on aura creusé.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -45,7 +45,7 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/aGITle/blob/master/v33/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
