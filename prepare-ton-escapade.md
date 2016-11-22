@@ -1,10 +1,10 @@
 ---
-title: Prépare ton escapade ELM V-33
-description: Une petite exploration ça se prépare, on t’a lister ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
+title: Prépare ton escapade aGITle V-31
+description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
+image_url: https://github.com/walkingdev/aGITle/blob/master/banner-github.jpg?raw=true
 ---
 
-# Session ELM - V-33
+# Session aGITle - V-31
 
 ## Ta préparation
 
@@ -14,10 +14,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jp
 - Une connexion Internet (via ton téléphone par exemple)
 - Un compte [github](https://github.com/join?source=header-home)
 
-#### Installer Elm sur ton Laptop
-> [Install Elm](https://guide.elm-lang.org/get_started.html)
-
-Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [twitter @avernois](https:/twitter.com/avernois) et on voit ça ensemble.
+Si tu galères tu peux nous joindre [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [twitter @claudeaubry](https:/twitter.com/claudeaubry) et on voit ça ensemble.
 
 ### Le reste
 - Chaussures confortable pour marcher
