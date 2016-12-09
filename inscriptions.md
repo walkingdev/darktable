@@ -12,3 +12,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/aGITle/blo
 * *nom - prénom - moyens de contact *
 * Aubry - Claude - @claudeaubry
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
+* Fuentes - Loïc - fuentes.loic@gmail.com - @fuentes_loic
