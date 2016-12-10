@@ -13,3 +13,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/aGITle/blo
 * Aubry - Claude - @claudeaubry
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
 * Taillandier - Frank - frank@taillandier.me - @DirtyF
+* Fuentes - Loïc - fuentes.loic@gmail.com - @fuentes_loic
