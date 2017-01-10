@@ -46,7 +46,7 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/github/blob/master/v31/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/github/blob/master/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -58,7 +58,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/github/edit/master/v31/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/#walkingdev/github/blob/master/inscription.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
 
 Tu peux aussi nous envoyer un petit mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
