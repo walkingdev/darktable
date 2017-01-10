@@ -10,7 +10,7 @@ image_url: https://github.com/walkingdev/github/blob/master/media/banner-morse.p
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Toulouse, on va échanger sur les utilisations de Github en dehors du partage de code. Comment co-écrire un livre ? Comment passer de Markdown à Asciidoc ? En tant que Product-Owner est-ce que Github peut m'aider ? Et si on passait la documentation d'entreprise sur un dépôt ? Des issues ou user-stories, des US aux PR, le backlog sur Github ?
+En explorant des lieux insolites dans Toulouse, on va échanger sur les utilisations de [Github](https://github.com) en dehors du partage de code. Comment co-écrire un livre ? Comment passer de [Markdown](https://guides.github.com/features/mastering-markdown) à [Asciidoc](http://asciidoctor.org) ? En tant que Product-Owner est-ce que Github peut m'aider ? Et si on passait la documentation d'entreprise sur un dépôt ? Des [issues](https://guides.github.com/features/issues) aux [user-stories](http://www.aubryconseil.com/post/La-vie-d-une-story), des US aux [PR](https://help.github.com/articles/about-pull-requests) ?
 
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
