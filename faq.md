@@ -1,7 +1,7 @@
 ---
-title: Faq aGITle V-31
-description: Une petite exploration de ce qu'on peut faire en agile avec GITsans frontale et sans baudrier du côté de Toulouse.
-image_url: https://github.com/walkingdev/aGITle/blob/master/media/banner-morse.png?raw=true
+title: Faq détournons Github V-31
+description: Github pour écrire mais pas du code.
+image_url: https://github.com/walkingdev/github/blob/master/media/banner-morse.png?raw=true
 ---
 
 # Session aGITle - V-31
@@ -10,20 +10,21 @@ image_url: https://github.com/walkingdev/aGITle/blob/master/media/banner-morse.p
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir les nouvelles possibilités agiles de GIT, en même temps que des endroits insolites.
+En explorant des lieux insolites dans Toulouse, on va échanger sur les utilisations de Github en dehors du partage de code. Comment co-écrire un livre ? Comment passer de Markdown à Asciidoc ? En tant que Product-Owner est-ce que Github peut m'aider ? Et si on passait la documentation d'entreprise sur un dépôt ? Des issues ou user-stories, des US aux PR, le backlog sur Github ?
+
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 12 janvier 2017 à 9h quelque part dans le centre de Toulouse. On ne sait pas encore où, on vous dit dès que l'on aura creusé.
+La marche commencera le 12 janvier 2017 à 9h au [Café Cerise](http://www.lecafecerise.fr) - 4, quai de la Daurade à Toulouse. 
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes impliquées dans le métier (PO) curieuses de découvrir comment on peut utiliser GIT pour l'affinage de backlog.
-- Les développeuses et développeurs souhaitant découvrir la notion de project dans GIT.
+- Les personnes impliquées dans le métier (PO) curieuses de découvrir comment on peut utiliser Github pour l'affinage de backlog.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
+- Les blogueurs, carnetiers, auteurs, chroniqueurs. 
 
 ### Je me sens pas au niveau…
 
@@ -33,7 +34,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépend de toi.  Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
+Ben non. Enfin, ça dépend de toi.  Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet avec toi.
 
 On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
 
@@ -45,7 +46,7 @@ Au moins 4, maximum 10, probablement autour de 7.
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/aGITle/blob/master/v33/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/github/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -57,7 +58,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/elm/edit/master/v31/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/inscriptions.md).
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/github/edit/master/v31/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
 
 Tu peux aussi nous envoyer un petit mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
@@ -83,6 +84,6 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 #### Et si j'ai une question ?
 
 Tu peux contacter :
-- Claude - [@claudeaubry](http://twitter.com/claudeaubry) (dm ouvert)
+- Claude - [@claudeaubry](http://twitter.com/claudeaubry)
 ou
 - Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 

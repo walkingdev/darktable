@@ -1,13 +1,13 @@
 ---
-title: Inscriptions pour aGITle V-31
-description: Liste pour s'inscrire à la session aGITle V-31
-image_url: https://github.com/walkingdev/aGITle/blob/master/media/banner-ecriture.png?raw=true
+title: Inscriptions pour détournons Github V-31
+description: Liste pour s'inscrire à la session détournons Github V-31
+image_url: https://github.com/walkingdev/github/blob/master/media/banner-ecriture.png?raw=true
 ---
 
 #### Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/aGITle/blob/master/faq.md)
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/github/blob/master/faq.md)
 
 * *nom - prénom - moyens de contact *
 * Aubry - Claude - @claudeaubry
