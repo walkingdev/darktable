@@ -32,7 +32,7 @@ Envoyer une modification vers le serveur distant
 
 ### Issue
 
-Plutot utilisé par developpeurs ou utilisateurs avancés pour proposer des choses: lister corrections à faire ou fonctionnalités proposées.
+Lister corrections à faire ou fonctionnalités proposées.
 
 
 ### Pull request
