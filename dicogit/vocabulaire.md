@@ -10,4 +10,4 @@
 - pull (git-pull) : récupérer les modifications du dépôt distant au dépôt local
 - push (git-push) : reporter des modifications du dépôt local au dépôt distant
 
-- issue :
+- issue : woaw
