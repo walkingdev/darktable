@@ -15,3 +15,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/github/blo
 * Taillandier - Frank - frank@taillandier.me - @DirtyF
 * Fuentes - Loïc - fuentes.loic@gmail.com - @fuentes_loic
 * Rosenberg - Nathalie - @nrosenberg
+* Ricaud - Lilian - @lilious
