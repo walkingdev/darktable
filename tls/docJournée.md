@@ -1,5 +1,5 @@
 
-Journée du 14 janvier
+Journée du 14 janvier 2016
 
 
 ## Déroulé de la journée
