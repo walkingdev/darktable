@@ -4,10 +4,10 @@
 - fork : copier un dépôt de travail afin de créer sa version (avec tous les droits)
 - branche : modifications en parallèle à une autre branche
 - commit :
-- pull-request : proposition de modifications sur une branche
 - merge : action de fusion des modifications
+- pull-request : proposition de modifications sur une branche
 
 - pull (git-pull) : récupérer les modifications du dépôt distant au dépôt local
 - push (git-push) : reporter des modifications du dépôt local au dépôt distant
 
-- issue : wéé
+- issue :
