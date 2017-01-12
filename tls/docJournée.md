@@ -1,1 +1,1 @@
-Journée à Toulouse
+Journée du 12 janvier
