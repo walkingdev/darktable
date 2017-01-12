@@ -1,4 +1,4 @@
-Journée 
+Journée du 14 janvier
 
 
 ## Déroulé de la journée
