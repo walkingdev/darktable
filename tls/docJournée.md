@@ -1,4 +1,5 @@
-Journée du 12 janvier
+
+Journée du 14 janvier
 
 
 ## Déroulé de la journée
