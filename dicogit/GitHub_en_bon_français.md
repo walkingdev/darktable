@@ -1,4 +1,4 @@
-# Github en bon français
+# Git et GitHub en bon français
  
 Ce petit glossaire a pour but d'expliciter dans un langage courant les différents vocabulaires issus de l'anglais, inhérents à l'utilisation de Git et de GitHub. 
  
