@@ -1,5 +1,5 @@
 
-# Marche apprennante du 14 janvier 2016 à Toulouse
+# Marche apprenante du 14 janvier 2016 à Toulouse
 
 ## Lieux visités
 
