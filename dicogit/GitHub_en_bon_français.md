@@ -20,11 +20,23 @@ Application de bureau, qui permet de visualiser le graphe, l'historique et la ge
 
 [https://desktop.github.com/](https://desktop.github.com/) disponible pour Mac et Windows.
 
+Note: non disponible pour linux.
+
 ## GitKraken
 
 Application de bureau multi-plate-forme (Mac, Windows, Linux) proposant une interface graphique pour la gestion des dépôts.
 
 Site : [https://www.gitkraken.com](https://www.gitkraken.com)
+
+Note: au 12 janvier 2017, ne fonctionne pas sous Linux 32 bit
+
+## Sparkleshare
+
+Sparkleshare est un logiciel libre qui permet de synchroniser automatiquement des dépots entre github, bitbucket ou autres instances Git et un dossier local sur un ordinateur, agissant effectivement comme une sorte de dropbox version Git.
+
+Sparkleshare marche bien pour mutualiser facilement des contenus vers Github et donc MultiBAO, mais ne possède pas d'options pour gérer les versions et branches donc moins pratique pour un travail collaboratif poussé.
+
+Site: [https://www.sparkleshare.org/](https://www.sparkleshare.org/)
 
 ## Dépôt
 
