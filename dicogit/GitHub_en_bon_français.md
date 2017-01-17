@@ -117,6 +117,10 @@ Action de fusionner deux branches.
 
 Possibilité de tagger des issues ou des pull-requests sur GitHub pour organiser et retrouver les demandes. 
 
+## Projet
+
+Le "Project" est une nouvelle feature qui est en fait une vue sous forme de tableau. On peut créer les colonnes du tableau et ensuite y placer des issues, des pull requests ou de simples notes. Cela permet de suivre l'avancement de ces travaux de façon visuelle.
+
 ## GitHub Pages 
 
 Service gratuit proposé par GitHub qui permet d'héberger le code source d'un site web statique dans un dépôt, de l'héberger et de le servir.
