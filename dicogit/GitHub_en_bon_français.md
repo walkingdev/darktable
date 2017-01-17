@@ -1,14 +1,14 @@
 # Git et GitHub en bon français
  
-Ce petit glossaire a pour but d'expliciter dans un langage courant les différents vocabulaires issus de l'anglais, inhérents à l'utilisation de Git et de GitHub. 
+Ce petit glossaire a pour but d'expliciter, dans un langage courant, les différents vocabulaires issus de l'anglais, inhérents à l'utilisation de Git et de GitHub. 
  
 ## Git
 
-Logiciel libre permettant de versionner des projets de manière distribuée. Chaque contributeur peut travailler sur une copie du dépôt à distance sur son ordinateur. L'utilisation de Git va permettre d'obtenir une frise chronologique de son projet et ainsi faciliter la consultation de l'historique des modifications. Grâce à sa gestion de graphe très puissante, Git permet de revenir facilement à un état antérieur du projet par exemple, de comparer les modifications entre deux états, etc. Il est aujourd'hui le logiciel de versionnement le plus populaire au monde et bénéficie d'un écosystème important.
+Logiciel libre permettant de versionner des projets de manière distribuée. Chaque contributeur peut travailler sur une copie du dépôt à distance, sur son ordinateur. L'utilisation de Git va permettre d'obtenir une frise chronologique de son projet qui facilite la consultation de l'historique des modifications. Grâce à sa gestion de graphe très puissante, Git permet, par exemple, de revenir facilement à un état antérieur du projet, de comparer les modifications entre deux états, etc. Il est aujourd'hui le logiciel de versionnement le plus populaire au monde et bénéficie d'un écosystème important.
 
 ## GitHub, GitLab, BitBucket
 
-Services en ligne servant de dépôt central pour des dépôts Git, proposant une interface graphique pour faciliter la collaboration à distance. Ces services permettent d'effectuer une partie des opérations en ligne sans avoir à passer par la ligne de commande : modification de fichier via un éditeur, enregistrement des modifications, création de branche, demande de fusion, de publication de version, Wiki, Kanban Projet, etc.
+Services en ligne servant de dépôt central pour des dépôts Git, proposant une interface graphique pour faciliter la collaboration à distance. Ces services permettent d'effectuer une partie des opérations en ligne sans avoir à passer par la ligne de commande : modification de fichier via un éditeur, enregistrement des modifications, création de branche, demande de fusion, de publication de version, Wiki, tableau Kanban, etc.
 
 * [GitHub](https://github.com/)
 * [GitLab](https://about.gitlab.com/)
@@ -34,7 +34,7 @@ Note: au 12 janvier 2017, ne fonctionne pas sous Linux 32 bit
 
 Sparkleshare est un logiciel libre qui permet de synchroniser automatiquement des dépots entre github, bitbucket ou autres instances Git et un dossier local sur un ordinateur, agissant effectivement comme une sorte de dropbox version Git.
 
-Sparkleshare marche bien pour mutualiser facilement des contenus vers Github et donc MultiBAO, mais ne possède pas d'options pour gérer les versions et branches donc moins pratique pour un travail collaboratif poussé.
+Sparkleshare marche bien pour mutualiser facilement des contenus vers Github (et donc MultiBAO), mais ne possède pas d'options pour gérer les versions et branches, c'est donc moins pratique pour un travail collaboratif poussé.
 
 Site: [https://www.sparkleshare.org/](https://www.sparkleshare.org/)
 
@@ -56,11 +56,11 @@ Commande Git qui permet de "Mettre de coté" des modifications en cours sans les
 
 ## Fork
 
-Bifurcation. *Forker* désigne le fait de recopier un dépôt Git, dans l'optique de pouvoir y faire des modifications. Cette opération est nécéssaire quand il faut contribuer sur un dépôt Git sur lequel on ne possède pas les droits de publication ou de fusion. Un *fork* désigne par extension également un logiciel créé à partir du code source d'un autre.
+Bifurcation. *Forker* désigne le fait de recopier un dépôt Git, dans l'optique de pouvoir y faire des modifications. Cette opération est nécéssaire quand il faut contribuer à un dépôt Git sur lequel on ne possède pas les droits de publication ou de fusion. Un *fork* désigne également, par extension, un logiciel créé à partir du code source d'un autre.
 
 ## Branch
 
-Branche de travail. Une branche permet de faire des modifications qui parallèlement à la branche principale. C'est une bonne pratique et une manière d'organiser les modifications. 
+Branche de travail. Une branche permet de faire des modifications parallèlement à la branche principale. C'est une bonne pratique pour organiser les modifications. 
 
 On essaie de garder la branche *master* (le tronc) le plus "propre" possible (stable, utilisable, de qualité), on expérimente à coté et quand on est prêt on peut alors incorporer dans le tronc (la branche principale). Faire des branches courtes est le meilleur moyen d'ajouter régulièrement de la valeur pour les utilisateurs et de faciliter les opérations de fusion avec la branche maître. Les branches donnent du relief au développement.
 
@@ -107,7 +107,7 @@ Réparation, correction d'une anomalie.
 
 Version numérotée - [sémantiquement](http://semver.org/lang/fr/) de préférence - correspondant à une étape notable du projet (ajout de nouvelle fonctionnalité, corrections, etc.) accompagné d'une historique des modifications depuis la version précédente.
 Exemple:  Publication de la version 1.2 de la documentation, publication de la version 0.12.1 du logiciel.
-Sur GitHub, les releases peuvent être créer facilement à partir de tags définis.
+Sur GitHub, les releases peuvent être créées facilement à partir de tags définis.
 
 ## Merge
 
@@ -115,7 +115,7 @@ Action de fusionner deux branches.
 
 ## Label
 
-Possibilité de tagger des issues ou des pull-requests sur GitHub pour organiser les demandes. 
+Possibilité de tagger des issues ou des pull-requests sur GitHub pour organiser et retrouver les demandes. 
 
 ## GitHub Pages 
 
@@ -132,7 +132,7 @@ Site : [https://pages.gitlab.io/](https://pages.gitlab.io/)
 
 ## Jekyll
 
-Générateur de site statique supporté par défaut par GitHub Pages. Jekyll permet de structure ses contenus dans des formats textes comme YAML, JSON, CSV, Markdown.
+Générateur de site statique supporté par défaut par GitHub Pages. Jekyll permet de structurer ses contenus dans des formats textes comme YAML, JSON, CSV, Markdown.
 
 Site officiel : [http://jekyllrb.com/](http://jekyllrb.com/)
 
@@ -140,4 +140,4 @@ Site officiel : [http://jekyllrb.com/](http://jekyllrb.com/)
 
 Langage de templating, développé à l'origine la création de thèmes pour le service Shopify et utilisé par Jekyll, qui permet d'insérer un peu d'intelligence dans les modèles (conditions, boucles, etc.).
 
-Documentation hébergé sur GitHub Pages : [http://shopify.github.io/liquid/](http://shopify.github.io/liquid/)
+Documentation hébergée sur GitHub Pages : [http://shopify.github.io/liquid/](http://shopify.github.io/liquid/)
