@@ -7,7 +7,7 @@ image_url: https://github.com/walkingdev/github/blob/master/media/banner-ecritur
 #### Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/github/blob/master/faq.md)
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/github/blob/master/v-31/faq.md)
 
 * *nom - prénom - moyens de contact *
 * Aubry - Claude - @claudeaubry

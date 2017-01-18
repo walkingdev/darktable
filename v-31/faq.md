@@ -17,14 +17,14 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 12 janvier 2017 à 9h au [Café Cerise](http://www.lecafecerise.fr) - 4, quai de la Daurade à Toulouse. 
+La marche commencera le 12 janvier 2017 à 9h au [Café Cerise](http://www.lecafecerise.fr) - 4, quai de la Daurade à Toulouse.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
 - Les personnes impliquées dans le métier (PO) curieuses de découvrir comment on peut utiliser Github pour l'affinage de backlog.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
-- Les blogueurs, carnetiers, auteurs, chroniqueurs. 
+- Les blogueurs, carnetiers, auteurs, chroniqueurs.
 
 ### Je me sens pas au niveau…
 
@@ -40,13 +40,13 @@ On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’ai
 
 ### On sera combien ?
 
-Au moins 4, maximum 10, probablement autour de 7. 
+Au moins 4, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/github/blob/master/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/github/blob/master/v-31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -58,7 +58,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/github/edit/master/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/github/edit/master/v-31/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
 
 Tu peux aussi nous envoyer un petit mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
@@ -86,4 +86,4 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 Tu peux contacter :
 - Claude - [@claudeaubry](http://twitter.com/claudeaubry)
 ou
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
+- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi)
