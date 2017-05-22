@@ -59,7 +59,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/darktable/edit/master/v-31/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/darktable/edit/master/v-34/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'inscriptions.
 
 Tu peux aussi nous envoyer un petit mail :[thibault@jouannic.fr](mailto:thibault@jouannic.fr)
 
