@@ -11,3 +11,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/darktable/
 
 * *nom - prénom - moyens de contact *
 * [Jouannic Thibault](mailto:thibault@jouannic.fr)
+
+* [Stéphane Langlois](https://mamot.fr/@pntbr)
