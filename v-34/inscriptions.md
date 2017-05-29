@@ -13,3 +13,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/darktable/
 * [Jouannic Thibault](mailto:thibault@jouannic.fr)
 
 * [Stéphane Langlois](https://mamot.fr/@pntbr)
+
+* [Antoine Vernois](https://twitter.com/avernois)
