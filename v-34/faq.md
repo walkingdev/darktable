@@ -17,8 +17,10 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le xx/xx 2017 à 9h au [Friendly Coofee]() -  16, rue du xxxx à Montpellier.
-Et, ça se termine vers 18h30.
+La marche commencera le 21/06 2017 à 9h, et ça se termine vers 18h30.
+Le lieu de départ reste à définir, mais on peut imaginer que ce sera dans un
+chouette café du centre ville de Montpellier.
+
 
 ### C'est pour qui ?
 
