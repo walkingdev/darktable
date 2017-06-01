@@ -41,7 +41,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 Ben non. Enfin, ça dépend de toi.  Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet avec toi.
 
-On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
+On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l'aide quand tu le souhaites.
 
 ### On sera combien ?
 
@@ -50,6 +50,9 @@ Au moins 4, maximum 10, probablement autour de 7.
 ### Il faut que je prévois des trucs ?
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
+
+Une souris (pour brancher sur le laptop, pas une vivante) peut apporter un peu
+de confort, mais ça n'est pas essentiel.
 
 Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/prepare-ton-escapade.md)
 
@@ -69,7 +72,7 @@ Tu peux aussi nous envoyer un petit mail :[thibault@jouannic.fr](mailto:thibault
 
 ### Ça coûte combien cette petite escapade ?
 
-59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.  
+59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.
 
 Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
