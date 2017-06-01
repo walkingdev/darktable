@@ -8,10 +8,14 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-esca
 
 ## Ta préparation
 
+- Ton laptop
 - Chaussures confortable pour marcher
 - Noisettes
 - Bouteille d’eau
 - Couteau
+
+Pour faire du traitement photo, avoir un écran déjà calibré, c'est mieux.
+Sinon, c'est pas grave, on se débrouillera sans.
 
 ## Préparation des organisateurs
 * 1 trousse : marqueurs, post-it, crayons, papiers
