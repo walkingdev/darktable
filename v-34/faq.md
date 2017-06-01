@@ -25,6 +25,8 @@ chouette café du centre ville de Montpellier.
 ### C'est pour qui ?
 
 - Les amateurs d'images.
+- Les gens qui n'arrivent pas à virer Windows parce qu'ils n'ont pas trouvé
+  d'alternative à Lightroom.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
 - Les graffeurs, les photographes de mariage.
 - Les photographes de plongée sous-marine qui souhaite chasser la dominante bleue de leurs photos.
